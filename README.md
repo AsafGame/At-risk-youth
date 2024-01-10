@@ -1,4 +1,6 @@
-# Youth at Risk
+# at-risk youth
+
+<img width="382" alt="image" src="https://github.com/AsafGame/Youth-at-Risk/assets/93122554/6c1850ed-8be3-432e-92db-1e1186872fa3">
 
 ## https://github.com/AsafGame/Youth-at-Risk/blob/main/formal-elements.md
 
