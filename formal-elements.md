@@ -2,7 +2,7 @@
 
 # כותרת ראשית: Youth at Risk
 
-                             **Make your change**
+                             Make your self change
 
 ## מהות המשחק
 
